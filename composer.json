@@ -10,7 +10,7 @@
         }
     ],
     "require": {
-        "tinybeans/bpsearch": "^1.3.0"
+        "tinybeans/bpsearch": "^1.3"
     },
     "config": {
         "sort-packages": true,
