@@ -1,0 +1,49 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "6c7de387f6f73d93621a63824c48f79c",
+    "packages": [
+        {
+            "name": "tinybeans/bpsearch",
+            "version": "dev-feature/slice",
+            "dist": {
+                "type": "path",
+                "url": "bpsearch",
+                "reference": "ab793a3570d3bd886e8bc5b1b03400ceb3d556f2"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "tinybeans\\bpsearch\\": "src/"
+                }
+            },
+            "license": [
+                "proprietary"
+            ],
+            "authors": [
+                {
+                    "name": "Roy Okuwaki",
+                    "email": "info@tinybeans.dev"
+                }
+            ],
+            "description": "bpsearch core scripts",
+            "transport-options": {
+                "relative": true
+            }
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "tinybeans/bpsearch": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.0.0"
+}

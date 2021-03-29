@@ -1,0 +1,21 @@
+{
+    "name": "tinybeans/bpsearch-project",
+    "description": "Composer starter project for bpsearch.",
+    "type": "project",
+    "license": "0BSD",
+    "authors": [
+        {
+            "name": "Roy Okuwaki",
+            "email": "info@tinybeans.dev"
+        }
+    ],
+    "require": {
+        "tinybeans/bpsearch": "^1.3.0"
+    },
+    "config": {
+        "sort-packages": true,
+        "platform": {
+            "php":  "5.6"
+        }
+    }
+}

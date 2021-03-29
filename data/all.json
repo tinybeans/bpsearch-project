@@ -1,0 +1,45 @@
+{
+    "items": {
+        "foo": {
+            "categoryId": "18",
+            "categoryIds": [
+                "18"
+            ],
+            "categoryLabel": "Events",
+            "date": "13",
+            "datetime": "20070813121308",
+            "day": "月曜日",
+            "excerpt": "（株）エムディエヌコーポレーションweb creators編集部が主宰する『Designer meets Designers 01』（以下「D2」）に参加してきました。...",
+            "id": "10",
+            "keywords": "CSS,セミナー,MDN",
+            "month": "08",
+            "tagIds": [
+                "14",
+                "70"
+            ],
+            "title": "Designer meets Designers 01",
+            "url": "/blog/2007/08/designer-meets-designers-01.html",
+            "year": "2007"
+        },
+        "bar": {
+            "categoryId": "1",
+            "categoryIds": [
+                "1"
+            ],
+            "categoryLabel": "Diary",
+            "date": "13",
+            "datetime": "20080313055226",
+            "day": "木曜日",
+            "excerpt": "『ホップ本』といわれている（らしい）『実践 Web Standards Design』を買いました。 この本も、『Web標準の教科書』と同様、評価の高い本なので楽しみです。...",
+            "id": "101",
+            "keywords": "Web標準,ホップ本",
+            "month": "03",
+            "tagIds": [
+                "39"
+            ],
+            "title": "「ホップ本」買いました",
+            "url": "/blog/2008/03/post-14.html",
+            "year": "2008"
+        }
+    }
+}
