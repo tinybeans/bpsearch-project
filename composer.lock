@@ -4,15 +4,21 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "6c7de387f6f73d93621a63824c48f79c",
+    "content-hash": "6634dfadc28ac7289e200a6a3e8b990b",
     "packages": [
         {
             "name": "tinybeans/bpsearch",
-            "version": "dev-feature/slice",
+            "version": "1.3.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/tinybeans/bpsearch.git",
+                "reference": "911d6deed4d47f183e3c76d9ff920cd6d8e72b88"
+            },
             "dist": {
-                "type": "path",
-                "url": "bpsearch",
-                "reference": "ab793a3570d3bd886e8bc5b1b03400ceb3d556f2"
+                "type": "zip",
+                "url": "https://api.github.com/repos/tinybeans/bpsearch/zipball/911d6deed4d47f183e3c76d9ff920cd6d8e72b88",
+                "reference": "911d6deed4d47f183e3c76d9ff920cd6d8e72b88",
+                "shasum": ""
             },
             "type": "library",
             "autoload": {
@@ -20,6 +26,7 @@
                     "tinybeans\\bpsearch\\": "src/"
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "proprietary"
             ],
@@ -30,20 +37,23 @@
                 }
             ],
             "description": "bpsearch core scripts",
-            "transport-options": {
-                "relative": true
-            }
+            "support": {
+                "issues": "https://github.com/tinybeans/bpsearch/issues",
+                "source": "https://github.com/tinybeans/bpsearch/tree/1.3.0"
+            },
+            "time": "2021-03-29T16:22:06+00:00"
         }
     ],
     "packages-dev": [],
     "aliases": [],
     "minimum-stability": "stable",
-    "stability-flags": {
-        "tinybeans/bpsearch": 20
-    },
+    "stability-flags": [],
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": [],
     "platform-dev": [],
+    "platform-overrides": {
+        "php": "5.6"
+    },
     "plugin-api-version": "2.0.0"
 }
