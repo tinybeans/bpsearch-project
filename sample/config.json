@@ -1,0 +1,10 @@
+{
+    "json": [
+        "data01.json",
+        "data02.json"
+    ],
+    "text": [
+        "data01.txt",
+        "data02.txt"
+    ]
+}
