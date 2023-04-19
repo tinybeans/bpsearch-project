@@ -1,10 +1,12 @@
 {
     "json": [
         "data01.json",
-        "data02.json"
+        "data02.json",
+        "data03.json"
     ],
     "text": [
         "data01.txt",
-        "data02.txt"
+        "data02.txt",
+        "data03.txt"
     ]
 }
