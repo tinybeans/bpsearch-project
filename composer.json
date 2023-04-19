@@ -10,14 +10,12 @@
         }
     ],
     "require": {
+        "php": ">=7.4",
         "guzzlehttp/guzzle": "^6.5",
         "tinybeans/bpsearch": "^1.4",
         "vlucas/phpdotenv": "^4.2"
     },
     "config": {
-        "sort-packages": true,
-        "platform": {
-            "php":  ">=7.4"
-        }
+        "sort-packages": true
     }
 }
