@@ -1,0 +1,24 @@
+{
+    "items": {
+        "roby": {
+            "name": "ロベルト・バッジョ",
+            "country": "イタリア"
+        },
+        "pixy": {
+            "name": "ドラガン・ストイコビッチ",
+            "country": "ユーゴスラビア"
+        },
+        "cruijff": {
+            "name": "ヨハン・クライフ",
+            "country": "オランダ"
+        },
+        "zico": {
+            "name": "ジーコ",
+            "country": "ブラジル"
+        },
+        "bergkamp": {
+            "name": "デニス・ベルカンプ",
+            "country": "オランダ"
+        }
+    }
+}
